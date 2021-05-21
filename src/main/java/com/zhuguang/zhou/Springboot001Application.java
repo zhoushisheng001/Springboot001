@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import com.zhuguang.zhou.service.UserInfoService;
 import com.zhuguang.zhou.service.impl.UserInfoServiceImpl;
 
+
 //@SpringBootApplication
 @EnableAutoConfiguration
 @ComponentScan(basePackages={"com.zhuguang.zhou"})
